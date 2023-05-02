@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+## Passing Arguments to the script
 
 # this script give the number of arguments you give after itself
     # think you are inside the file

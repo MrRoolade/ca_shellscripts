@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+## Arrays
 
 NAMES=( John Eric Jessica )
 # write your code here

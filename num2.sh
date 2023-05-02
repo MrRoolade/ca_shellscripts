@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+## Variables
 BIRTHDATE="Jan 1, 2000"
 Presents=10
 BIRTHDAY=Saturday
